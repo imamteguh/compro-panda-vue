@@ -2,6 +2,7 @@
   <div>
     <Navbar />
     <Hero />
+    <About />
   </div>
 </template>
 <script setup>
@@ -11,6 +12,7 @@ import 'aos/dist/aos.css';
 
 import Hero from './components/Hero.vue';
 import Navbar from './components/Navbar.vue';
+import About from './components/About.vue';
 
 onMounted(() => {
   AOS.init({
