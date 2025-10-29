@@ -3,6 +3,7 @@
     <Navbar />
     <Hero />
     <About />
+    <WhyUs />
   </div>
 </template>
 <script setup>
@@ -13,6 +14,7 @@ import 'aos/dist/aos.css';
 import Hero from './components/Hero.vue';
 import Navbar from './components/Navbar.vue';
 import About from './components/About.vue';
+import WhyUs from './components/WhyUs.vue';
 
 onMounted(() => {
   AOS.init({
