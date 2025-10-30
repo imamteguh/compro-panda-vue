@@ -4,6 +4,7 @@
     <Hero />
     <About />
     <WhyUs />
+    <MyServices />
   </div>
 </template>
 <script setup>
@@ -15,6 +16,7 @@ import Hero from './components/Hero.vue';
 import Navbar from './components/Navbar.vue';
 import About from './components/About.vue';
 import WhyUs from './components/WhyUs.vue';
+import MyServices from './components/MyServices.vue';
 
 onMounted(() => {
   AOS.init({
