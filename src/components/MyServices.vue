@@ -2,8 +2,7 @@
     <section id="service" class="relative overflow-hidden bg-linear-to-br from-gray-50 to-green-50 
         py-12 px-4 sm:py-16 md:py-20 md:px-12 lg:px-20">
         <div class="max-w-7xl mx-auto">
-            <div class="flex flex-col lg:flex-row items-center justify-center text-center mb-6"
-                data-aos="fade-down">
+            <div class="flex flex-col lg:flex-row items-center justify-center text-center mb-6" data-aos="fade-down">
                 <div class="flex-1 max-w-2xl mx-auto space-y-6 mb-10 lg:mb-0">
                     <div>
                         <h2 class="text-4xl sm:text-5xl text-gray-900">

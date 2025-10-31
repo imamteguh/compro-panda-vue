@@ -6,6 +6,7 @@
     <WhyUs />
     <MyServices />
     <Contact />
+    <Footer />
   </div>
 </template>
 <script setup>
@@ -19,6 +20,7 @@ import About from './components/About.vue';
 import WhyUs from './components/WhyUs.vue';
 import MyServices from './components/MyServices.vue';
 import Contact from './components/Contact.vue';
+import Footer from './components/Footer.vue';
 
 onMounted(() => {
   AOS.init({
