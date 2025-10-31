@@ -5,6 +5,7 @@
     <About />
     <WhyUs />
     <MyServices />
+    <Contact />
   </div>
 </template>
 <script setup>
@@ -17,6 +18,7 @@ import Navbar from './components/Navbar.vue';
 import About from './components/About.vue';
 import WhyUs from './components/WhyUs.vue';
 import MyServices from './components/MyServices.vue';
+import Contact from './components/Contact.vue';
 
 onMounted(() => {
   AOS.init({
